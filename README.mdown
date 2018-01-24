@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Andreyka2016/credit_card_validation.png?columns=all)](https://waffle.io/Andreyka2016/credit_card_validation?utm_source=badge)
 # Credit Card Validation
 [![Build Status](https://travis-ci.org/rahult/credit_card_validation.png?branch=master)](https://travis-ci.org/rahult/credit_card_validation) [![Code Climate](https://codeclimate.com/github/rahult/credit_card_validation.png)](https://codeclimate.com/github/rahult/credit_card_validation) [![Dependency Status](https://gemnasium.com/rahult/credit_card_validation.png)](https://gemnasium.com/rahult/credit_card_validation) [![Gem Version](https://badge.fury.io/rb/credit_card_validation.png)](http://badge.fury.io/rb/credit_card_validation)
 
